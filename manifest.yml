@@ -1,0 +1,3 @@
+applications:
+- name: angelhack-10-dungeon-companion
+  memory: 256M

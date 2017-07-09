@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "angelhack-10-dungeon-companion": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://CompanionMaster:AngelHack2017@ds151202.mlab.com:51202/angelhack-10-dungeon-companion",
+    "database": "",
+    "password": "",
+    "name": "angelhack-10-dungeon-companion",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
